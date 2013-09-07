@@ -1,0 +1,20 @@
+{
+    "assets": {
+        "app.css": "app-ce73112ab9cf7e1091b2275e8062d37c.css",
+        "app.js": "app-a9b6dec34dcf660f443f820e37a77958.js"
+    },
+    "files": {
+        "app-a9b6dec34dcf660f443f820e37a77958.js": {
+            "digest": "a9b6dec34dcf660f443f820e37a77958",
+            "logical_path": "app.js",
+            "mtime": "2013-09-07T09:16:25-07:00",
+            "size": 48038
+        },
+        "app-ce73112ab9cf7e1091b2275e8062d37c.css": {
+            "digest": "ce73112ab9cf7e1091b2275e8062d37c",
+            "logical_path": "app.css",
+            "mtime": "2013-09-07T09:16:25-07:00",
+            "size": 124496
+        }
+    }
+}
